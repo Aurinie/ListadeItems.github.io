@@ -1,4 +1,3 @@
-// Función para cargar los ítems desde el almacenamiento local al cargar la página
 document.addEventListener('DOMContentLoaded', function () {
     mostrarListado(); // Muestra el listado guardado al cargar la página
 });
